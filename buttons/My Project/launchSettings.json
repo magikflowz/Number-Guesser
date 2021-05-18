@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "buttons": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\anurb\\Desktop\\pythonscript"
+    },
+    "randomnumberguesser": {
+      "commandName": "Executable",
+      "workingDirectory": "C:\\Users\\anurb\\Desktop\\pythonscript"
+    },
+    "random": {
+      "commandName": "Executable"
+    }
+  }
+}
